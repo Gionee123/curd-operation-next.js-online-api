@@ -12,7 +12,6 @@ import Course_view from "./course_view/page";
 export default function Home() {
   return (
     <>
-      <h1>home</h1>
       <Course_add />
       <Course_view />
 

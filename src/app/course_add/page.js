@@ -128,6 +128,7 @@ export default function Course_add() {
         <>
             <div className="container mx-auto px-4 py-8">
                 <ToastContainer autoClose={100} />
+                <h1 className='text-[red] text-center font-bold'>Curd Operation (create , Read, Update, Delete)</h1>
 
                 <div className="bg-white rounded-lg shadow-md p-6 mb-8">
                     <h2 className="text-xl font-semibold mb-4">Create New Course</h2>
